@@ -1,3 +1,2 @@
 # Skripsi-RPI-smarthome
-isi skripsi yang dibuat untuk belajar git
-ditambah dengan isi proposal skripsi
+Berisi Tentang proyek saya untuk mendapatkan gelar ST
